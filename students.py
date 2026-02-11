@@ -1,5 +1,5 @@
 #class is a blueprint for creating objects
-#object is a vinsance of a class
+#object is an instance of a class
 from unicodedata import name
 
 
